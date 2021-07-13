@@ -1,7 +1,7 @@
 # Game-a-Thon-Repo
 This repository is solely meant for the purpose of Game-a-thon contest participation.
 
-* Problem Source: Codechef May Lunchtime Div2 *
+*Problem Source: Codechef May Lunchtime Div2*
 
 ## Problem A Statement: 
 The ugliness of a string is defined as the count of two consecutive ones i.e. **"11"** in the given string. For example, the ugliness of string **"10111"** is **2**.
