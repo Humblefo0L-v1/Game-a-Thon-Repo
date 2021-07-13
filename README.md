@@ -29,7 +29,7 @@ For each test case, output an ordering of **A** such that the ugliness of the ar
 
 
 ## Problem B Statement: 
-(![probbb](https://user-images.githubusercontent.com/54187631/125495657-6720a6a6-5c09-477a-9451-9d0e91059099.PNG))
+![probbb](https://user-images.githubusercontent.com/54187631/125495657-6720a6a6-5c09-477a-9451-9d0e91059099.PNG)
 
 ### Input:
 The first line of the input contains a single integer **T** denoting the number of test cases. The description of **T** test cases follows.
